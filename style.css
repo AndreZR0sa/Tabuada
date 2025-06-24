@@ -1,0 +1,34 @@
+body{
+    color: #ffff;
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    margin-top: 2%;
+}
+
+h1{
+    font-size: 2em;
+    text-align: center;
+    margin-top: 20px;
+    margin-top: 50%;
+}
+
+h2{
+    font-size: 1.5em;
+    text-align: center;
+    margin-top: 10px;
+}
+
+span{
+    font-weight: bold;
+    color: gray;
+}
+
+#resultado{
+    font-size: 1.2em;
+    text-align: center;
+    margin-top: 10px;
+}
